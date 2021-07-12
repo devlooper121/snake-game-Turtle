@@ -1,10 +1,10 @@
 # snake-game-Turtle
 
-this is classic snake game.\n
-this game two mode of playing \n
-1. free mode\n
-2. Box mode
+1. this is classic snake game.
+2. this game two mode of playing.
+3. free mode.
+4. Box mode.
 
-use arrow key to move Snake\n
-use "space" for play/pause game\n 
-this snake-game always remember what is your highest scorer\n
+5. use arrow key to move Snake.
+6. use "space" for play/pause game
+7. this snake-game always remember what is your highest scorer.
